@@ -1,0 +1,21 @@
+{
+  "name": "git-current-branch",
+  "version": "1.0.0",
+  "description": "Get the current branch from the current git directory",
+  "author": "John Otander <johnotander@gmail.com> (http://johnotander.com/)",
+  "repository": "johnotander/current-branch",
+  "license": "MIT"
+  "bin": "current-branch.sh",
+  "files": [
+    "current-branch.sh"
+  ],
+  "keywords": [
+    "git",
+    "current",
+    "branch",
+    "current-branch"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+}
