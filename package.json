@@ -4,7 +4,7 @@
   "description": "Get the current branch from the current git directory",
   "author": "John Otander <johnotander@gmail.com> (http://johnotander.com/)",
   "repository": "johnotander/current-branch",
-  "license": "MIT"
+  "license": "MIT",
   "bin": "current-branch.sh",
   "files": [
     "current-branch.sh"
@@ -17,5 +17,5 @@
   ],
   "engines": {
     "node": ">=0.10.0"
-  },
+  }
 }
