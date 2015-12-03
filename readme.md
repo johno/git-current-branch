@@ -1,17 +1,17 @@
-# current-branch
+# git-current-branch
 
 Get the current branch from the current git directory. A bash script bundled with npm.
 
 ## Installation
 
 ```
-$ npm i -g current-branch
+$ npm i -g git-current-branch
 ```
 
 ## Usage
 
 ```sh
-$ current-branch
+$ git-current-branch
 # master
 ```
 
