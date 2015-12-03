@@ -1,6 +1,6 @@
 {
   "name": "git-current-branch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get the current branch from the current git directory",
   "author": "John Otander <johnotander@gmail.com> (http://johnotander.com/)",
   "repository": "johnotander/current-branch",
