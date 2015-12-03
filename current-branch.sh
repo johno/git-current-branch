@@ -1,3 +1,5 @@
+#!/usr/bin/env sh
+
 function current_branch() {
   local ref
   ref=$(git symbolic-ref --quiet HEAD 2> /dev/null)

@@ -1,6 +1,6 @@
 # current-branch
 
-Get the current branch from the current git directory.
+Get the current branch from the current git directory. A bash script bundled with npm.
 
 ## Installation
 
@@ -14,6 +14,10 @@ $ npm i -g current-branch
 $ current-branch
 # master
 ```
+
+## Acknowledgements
+
+Adapted and repackaged from [`oh-my-zsh`](https://github.com/robbyrussell/oh-my-zsh/blob/c82f49e734973debfcab9dd7f1a76bfd42186880/plugins/git/git.plugin.zsh#L13)
 
 ## License
 
